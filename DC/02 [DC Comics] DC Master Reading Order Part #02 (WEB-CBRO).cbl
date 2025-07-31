@@ -964,7 +964,7 @@
 <Book Series="Justice League International" Number="10" Volume="1987" Year="1988">
 <Database Name="cv" Series="3798" Issue="29283" />
 </Book>
-<Book Series="Outsiders" Number="28" Volume="2003" Year="2005">
+<Book Series="The Outsiders" Number="28" Volume="1985" Year="1988">
 <Database Name="cv" Series="10415" Issue="113886" />
 </Book>
 <Book Series="Millennium" Number="6" Volume="1988" Year="1988">
