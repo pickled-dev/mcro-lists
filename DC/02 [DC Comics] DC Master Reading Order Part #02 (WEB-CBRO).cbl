@@ -1321,7 +1321,7 @@
 <Book Series="Suicide Squad" Number="12" Volume="1987" Year="1988">
 <Database Name="cv" Series="3815" Issue="29450" />
 </Book>
-<Book Series="Doom Patrol and Suicide Squad Special" Number="1" Volume="1988" Year="1988">
+<Book Series="The Doom Patrol and Suicide Squad Special" Number="1" Volume="1988" Year="1988">
 <Database Name="cv" Series="26059" Issue="154054" />
 </Book>
 <Book Series="Hellblazer" Number="11" Volume="1988" Year="1988">
