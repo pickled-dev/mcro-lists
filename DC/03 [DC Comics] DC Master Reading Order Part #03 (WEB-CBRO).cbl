@@ -564,7 +564,7 @@
 <Book Series="Action Comics Annual" Number="4" Volume="1987" Year="1992">
 <Database Name="cv" Series="3776" Issue="35140" />
 </Book>
-<Book Series="Wonder Woman Annual" Number="3" Volume="1989" Year="1992">
+<Book Series="Wonder Woman Annual" Number="3" Volume="1988" Year="1992">
 <Database Name="cv" Series="4216" Issue="76658" />
 </Book>
 <Book Series="Green Arrow Annual" Number="5" Volume="1988" Year="1992">
@@ -1575,7 +1575,7 @@
 <Book Series="Batman Annual" Number="17" Volume="1961" Year="1993">
 <Database Name="cv" Series="3109" Issue="82302" />
 </Book>
-<Book Series="Justice League International Annual" Number="4" Volume="1988" Year="1993">
+<Book Series="Justice League International Annual" Number="4" Volume="1993" Year="1993">
 <Database Name="cv" Series="23398" Issue="140380" />
 </Book>
 <Book Series="Robin Annual" Number="2" Volume="1992" Year="1993">
@@ -2007,13 +2007,13 @@
 <Book Series="Deathstroke the Hunted" Number="47" Volume="1994" Year="1995">
 <Database Name="cv" Series="9645" Issue="109169" />
 </Book>
-<Book Series="Deathstroke" Number="48" Volume="1991" Year="1995">
+<Book Series="Deathstroke" Number="48" Volume="1995" Year="1995">
 <Database Name="cv" Series="9645" Issue="109168" />
 </Book>
-<Book Series="Deathstroke" Number="49" Volume="1991" Year="1995">
+<Book Series="Deathstroke" Number="49" Volume="1995" Year="1995">
 <Database Name="cv" Series="9645" Issue="109167" />
 </Book>
-<Book Series="Deathstroke" Number="50" Volume="1991" Year="1995">
+<Book Series="Deathstroke" Number="50" Volume="1995" Year="1995">
 <Database Name="cv" Series="9645" Issue="109166" />
 </Book>
 <Book Series="Hellblazer" Number="77" Volume="1988" Year="1994">
@@ -2406,7 +2406,7 @@
 <Book Series="Justice League America" Number="105" Volume="1989" Year="1995">
 <Database Name="cv" Series="4198" Issue="41609" />
 </Book>
-<Book Series="R.E.B.E.L.S." Number="13" Volume="1994" Year="1995">
+<Book Series="R.E.B.E.L.S. '95" Number="13" Volume="1995" Year="1995">
 <Database Name="cv" Series="18426" Issue="122322" />
 </Book>
 <Book Series="Steel" Number="21" Volume="1994" Year="1995">
@@ -2448,7 +2448,7 @@
 <Book Series="Damage" Number="19" Volume="1994" Year="1995">
 <Database Name="cv" Series="5242" Issue="41729" />
 </Book>
-<Book Series="Deathstroke" Number="53" Volume="1991" Year="1995">
+<Book Series="Deathstroke" Number="53" Volume="1995" Year="1995">
 <Database Name="cv" Series="9645" Issue="109163" />
 </Book>
 <Book Series="Extreme Justice" Number="11" Volume="1995" Year="1995">
@@ -2487,7 +2487,7 @@
 <Book Series="Underworld Unleashed: Patterns of Fear" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="22672" Issue="135964" />
 </Book>
-<Book Series="R.E.B.E.L.S." Number="14" Volume="1994" Year="1995">
+<Book Series="R.E.B.E.L.S. '95" Number="14" Volume="1995" Year="1995">
 <Database Name="cv" Series="18426" Issue="122324" />
 </Book>
 <Book Series="Detective Comics" Number="692" Volume="1937" Year="1995">
@@ -3048,7 +3048,7 @@
 <Book Series="Teen Titans" Number="5" Volume="1996" Year="1997">
 <Database Name="cv" Series="19986" Issue="125719" />
 </Book>
-<Book Series="Black Canary/Oracle: Birds of Prey" Number="1" Volume="1996" Year="1996">
+<Book Series="Black Canary / Oracle: Birds of Prey" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="18997" Issue="112867" />
 </Book>
 <Book Series="Birds of Prey: Revolution" Number="1" Volume="1997" Year="1997">
