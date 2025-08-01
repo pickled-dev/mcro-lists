@@ -57,16 +57,16 @@
 <Book Series="Ultimate Marvel Team-Up" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="7515" Issue="55328" />
 </Book>
-<Book Series="Ultimate Daredevil/Elektra" Number="1" Volume="2003" Year="2003">
+<Book Series="Ultimate Daredevil and Elektra" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="23003" Issue="138725" />
 </Book>
-<Book Series="Ultimate Daredevil/Elektra" Number="2" Volume="2003" Year="2003">
+<Book Series="Ultimate Daredevil and Elektra" Number="2" Volume="2003" Year="2003">
 <Database Name="cv" Series="23003" Issue="138726" />
 </Book>
-<Book Series="Ultimate Daredevil/Elektra" Number="3" Volume="2003" Year="2003">
+<Book Series="Ultimate Daredevil and Elektra" Number="3" Volume="2003" Year="2003">
 <Database Name="cv" Series="23003" Issue="138727" />
 </Book>
-<Book Series="Ultimate Daredevil/Elektra" Number="4" Volume="2003" Year="2003">
+<Book Series="Ultimate Daredevil and Elektra" Number="4" Volume="2003" Year="2003">
 <Database Name="cv" Series="23003" Issue="138728" />
 </Book>
 <Book Series="Ultimate Elektra" Number="1" Volume="2004" Year="2004">
@@ -1263,10 +1263,10 @@
 <Book Series="Ultimate X-Men" Number="97" Volume="2001" Year="2008">
 <Database Name="cv" Series="7258" Issue="136537" />
 </Book>
-<Book Series="Ultimate X-Men/Ultimate Fantastic Four Annual" Number="1" Volume="2008" Year="2008">
+<Book Series="Ultimate X-Men / Ultimate Fantastic Four Annual" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22965" Issue="138275" />
 </Book>
-<Book Series="Ultimate Fantastic Four/Ultimate X-Men Annual" Number="1" Volume="2008" Year="2008">
+<Book Series="Ultimate Fantastic Four / Ultimate X-Men Annual" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="23137" Issue="139397" />
 </Book>
 <Book Series="Ultimate Origins" Number="1" Volume="2008" Year="2008">
@@ -1344,16 +1344,16 @@
 <Book Series="Ultimatum: Spider-Man - Requiem" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="26749" Issue="165423" />
 </Book>
-<Book Series="Ultimate Comics Armor Wars" Number="1" Volume="2009" Year="2009">
+<Book Series="Ultimate Armor Wars" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="28008" Issue="171702" />
 </Book>
-<Book Series="Ultimate Comics Armor Wars" Number="2" Volume="2009" Year="2009">
+<Book Series="Ultimate Armor Wars" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="28008" Issue="179944" />
 </Book>
-<Book Series="Ultimate Comics Armor Wars" Number="3" Volume="2009" Year="2010">
+<Book Series="Ultimate Armor Wars" Number="3" Volume="2009" Year="2010">
 <Database Name="cv" Series="28008" Issue="188273" />
 </Book>
-<Book Series="Ultimate Comics Armor Wars" Number="4" Volume="2009" Year="2010">
+<Book Series="Ultimate Armor Wars" Number="4" Volume="2009" Year="2010">
 <Database Name="cv" Series="28008" Issue="196760" />
 </Book>
 <Book Series="Ultimate X" Number="1" Volume="2010" Year="2010">
@@ -1632,16 +1632,16 @@
 <Book Series="Ultimate Comics Spider-Man" Number="6" Volume="2011" Year="2012">
 <Database Name="cv" Series="42821" Issue="311838" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="1" Volume="2011" Year="2011">
+<Book Series="Ultimate Comics: The Ultimates" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42322" Issue="288885" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="2" Volume="2011" Year="2011">
+<Book Series="Ultimate Comics: The Ultimates" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="42322" Issue="293533" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="3" Volume="2011" Year="2011">
+<Book Series="Ultimate Comics: The Ultimates" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="42322" Issue="299760" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="4" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="4" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="304546" />
 </Book>
 <Book Series="Ultimate Comics Hawkeye" Number="1" Volume="2011" Year="2011">
@@ -1674,10 +1674,10 @@
 <Book Series="Ultimate Comics X-Men" Number="6" Volume="2011" Year="2012">
 <Database Name="cv" Series="42947" Issue="310932" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="5" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="5" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="308919" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="6" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="6" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="312895" />
 </Book>
 <Book Series="Ultimate Comics Spider-Man" Number="7" Volume="2011" Year="2012">
@@ -1698,22 +1698,22 @@
 <Book Series="Ultimate Comics Spider-Man" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="42821" Issue="344078" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="7" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="7" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="317967" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="8" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="8" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="325099" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="9" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="333428" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="10" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="10" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="335268" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="11" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="11" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="337516" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="12" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="342844" />
 </Book>
 <Book Series="Ultimate Comics X-Men" Number="7" Volume="2011" Year="2012">
@@ -1755,10 +1755,10 @@
 <Book Series="Ultimate Comics X-Men" Number="14" Volume="2011" Year="2012">
 <Database Name="cv" Series="42947" Issue="345400" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="13" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="13" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="347206" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="14" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="14" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="352655" />
 </Book>
 <Book Series="Ultimate Comics Spider-Man" Number="13" Volume="2011" Year="2012">
@@ -1770,7 +1770,7 @@
 <Book Series="Ultimate Comics X-Men" Number="15" Volume="2011" Year="2012">
 <Database Name="cv" Series="42947" Issue="354120" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="15" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="15" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="357714" />
 </Book>
 <Book Series="Ultimate Comics Spider-Man" Number="15" Volume="2011" Year="2012">
@@ -1779,7 +1779,7 @@
 <Book Series="Ultimate Comics Spider-Man" Number="16" Volume="2011" Year="2012">
 <Database Name="cv" Series="42821" Issue="362193" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="16" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="16" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="358974" />
 </Book>
 <Book Series="Ultimate Comics X-Men" Number="16" Volume="2011" Year="2012">
@@ -1791,10 +1791,10 @@
 <Book Series="Ultimate Comics Spider-Man" Number="17" Volume="2011" Year="2013">
 <Database Name="cv" Series="42821" Issue="369094" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="17" Volume="2011" Year="2012">
+<Book Series="Ultimate Comics: The Ultimates" Number="17" Volume="2011" Year="2012">
 <Database Name="cv" Series="42322" Issue="363163" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="18" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="18" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="367812" />
 </Book>
 <Book Series="Ultimate Comics X-Men" Number="18" Volume="2011" Year="2012">
@@ -1806,7 +1806,7 @@
 <Book Series="Ultimate Comics Spider-Man" Number="18" Volume="2011" Year="2013">
 <Database Name="cv" Series="42821" Issue="373309" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="18.1" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="18.1" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="371260" />
 </Book>
 <Book Series="Ultimate Comics Spider-Man" Number="16.1" Volume="2011" Year="2012">
@@ -1824,22 +1824,22 @@
 <Book Series="Ultimate Comics Spider-Man" Number="22" Volume="2011" Year="2013">
 <Database Name="cv" Series="42821" Issue="398992" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="19" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="19" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="373310" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="20" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="20" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="381418" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="21" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="21" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="387264" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="22" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="22" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="390454" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="23" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="23" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="396433" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="24" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="24" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="401211" />
 </Book>
 <Book Series="Ultimate Comics X-Men" Number="19" Volume="2011" Year="2013">
@@ -1911,22 +1911,22 @@
 <Book Series="Ultimate Comics X-Men" Number="33" Volume="2011" Year="2013">
 <Database Name="cv" Series="42947" Issue="431447" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="25" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="25" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="409002" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="26" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="26" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="411835" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="27" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="27" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="416947" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="28" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="28" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="419971" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="29" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="29" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="422503" />
 </Book>
-<Book Series="Ultimate Comics Ultimates" Number="30" Volume="2011" Year="2013">
+<Book Series="Ultimate Comics: The Ultimates" Number="30" Volume="2011" Year="2013">
 <Database Name="cv" Series="42322" Issue="425033" />
 </Book>
 <Book Series="Ultimate Comics Spider-Man" Number="23" Volume="2011" Year="2013">
